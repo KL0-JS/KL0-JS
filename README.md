@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KL0
-- 👀 I’m interested in javascript,python,jQuery,html,css
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Javascript, Java
+- 🌱 I’m currently learning Java
